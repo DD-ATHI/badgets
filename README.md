@@ -1,1 +1,1 @@
-# badgets
+https://badgets.vercel.app/
